@@ -1,0 +1,3 @@
+[submodule "HelloDataNucleus"]
+	path = HelloDataNucleus
+	url = https://github.com/deedeecodes/HelloDataNucleus.git

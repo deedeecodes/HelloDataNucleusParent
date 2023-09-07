@@ -1,0 +1,5 @@
+ear/target/
+.project
+.settings/*
+ear/.project
+ear/.settings/*
